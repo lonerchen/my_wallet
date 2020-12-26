@@ -1,0 +1,31 @@
+
+
+import 'package:flutter/material.dart';
+
+class MyColors{
+
+  static const Color THEME_COLORS = Color.fromARGB(0xff, 0xff, 0xab, 0x00);//主题色
+  static const Color BLACK_TEXT_22 = Color.fromARGB(0xff, 0x22, 0x22, 0x22);
+  static const Color BLACK_TEXT_1F = Color.fromARGB(0xff, 0x1F, 0x1F, 0x1F);
+  static const Color BUTTON_DISABLE = Color.fromARGB(0xff, 0xf5,0xce,0x7d);
+  static const Color BUTTON_DELETE = Color.fromARGB(0xff, 0xe5,0x0f,0x31);
+  static const Color LINE_COLOR = Color.fromARGB(0xff, 0xFA,0xFB,0xFC);
+  static const Color GRAY_TEXT_99 = Color.fromARGB(0xff, 0x99, 0x99, 0x99);
+  static const Color GRAY_TEXT_66 = Color.fromARGB(0xff, 0x66, 0x66, 0x66);
+  static const Color GRAY_TEXT_CC = Color.fromARGB(0xff, 0xCC, 0xCC, 0xCC);
+  static const Color GRAY_TEXT_BB = Color.fromARGB(0xff, 0xBB, 0xBB, 0xBB);
+  static const Color GRAY_TEXT_D8 = Color.fromARGB(0xff, 0xD8, 0xD8, 0xD8);
+  static const Color GRAY_TEXT_D5 = Color.fromARGB(0xff, 0xD5, 0xD5, 0xD5);
+  static const Color GRAY_TEXT_F6 = Color.fromARGB(0xff, 0xF6, 0xF6, 0xF6);
+  static const Color GRAY_TEXT_C7 = Color.fromARGB(0xff, 0xC7, 0xC7, 0xC7);
+  static const Color GRAY_TEXT_EE = Color.fromARGB(0xff, 0xEE, 0xEE, 0xEE);
+  static const Color BLACK_TEXT_33 = Color.fromARGB(0xff, 0x33, 0x33, 0x33);
+  static const Color RED_TEXT_52 = Color.fromARGB(0xff, 0xff, 0x52, 0x52);
+  static const Color BLACK_TEXT_00 = Color.fromARGB(0xff, 0x00, 0x00, 0x00);
+  static const Color GREEN_TEXT_7A = Color.fromARGB(0xff, 0x7A, 0xD2, 0x90);
+  static const Color RED_TEXT_E2 = Color.fromARGB(0xff, 0xE2, 0x7C, 0x83);
+  static const Color GREEN_UP_A5 = Color.fromARGB(0xff, 0x04, 0xC5, 0xA5);
+  static const Color RED_DOWN_78 = Color.fromARGB(0xff, 0xFF, 0x78, 0x79);
+  static const Color LINE_COLOR_F2 = Color.fromARGB(0xff, 0xF2,0xF2,0xF2);
+
+}
