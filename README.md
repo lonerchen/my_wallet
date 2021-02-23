@@ -1,6 +1,6 @@
 ## you wallet
 
-A new Flutter project.
+Flutter eth 去中心化钱包
 
 ## Screenshots
 
